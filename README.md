@@ -1,16 +1,19 @@
-## Hi there 👋
+# Catatan Santri
 
-<!--
-**catatansantri155-pixel/catatansantri155-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kreator konten dan pembangun produk digital dari Indonesia. Mengelola kanal Catatan Santri (motivasi, muhasabah, growth mindset) dan membangun Maktabah Al-'Ilmiyyah, aplikasi perpustakaan fatwa Islam.
 
-Here are some ideas to get you started:
+## Proyek utama
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Pustaka-Ilmu](https://github.com/catatansantri155-pixel/Pustaka-Ilmu) — Maktabah Al-'Ilmiyyah: aplikasi fatwa Islam Syaikh Bin Baz, 2.867 materi terbit (Thaharah, Shalat, Jenazah). Live di https://pustaka-ilmu.pages.dev
+- [Catatan-Santri](https://github.com/catatansantri155-pixel/Catatan-Santri) — website resmi Catatan Santri: https://www.catatansantri.com
+- [kalkulator-harga-shopee](https://github.com/catatansantri155-pixel/kalkulator-harga-shopee) — kalkulator harga jual dan margin untuk seller Shopee
+
+## Teknologi
+
+Next.js · TypeScript · Python · FastAPI · Supabase (PostgreSQL) · Cloudflare Pages
+
+## Tautan
+
+- YouTube: https://www.youtube.com/@CatatanSantri-s7o
+- Blog: https://www.catatansantri.com
+- Telegram: https://t.me/Catatansantriii
